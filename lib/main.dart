@@ -7,7 +7,7 @@ void main() {
         home: Material(
           color: Colors.yellow,
           child: Center(
-              child: Text("hello eyob", textDirection: TextDirection.ltr)),
+              child: Text("hello Eyobed", textDirection: TextDirection.ltr)),
         )),
   );
 }
